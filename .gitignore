@@ -1,0 +1,15 @@
+# divers
+*.zip
+*.swp
+
+# BASIC PYTHON
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.ipynb_checkpoints
+
+# local env
+.env
+.envrc
+.python-version

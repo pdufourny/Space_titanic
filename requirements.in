@@ -1,0 +1,11 @@
+pandas
+seaborn
+tqdm
+
+# ML Libraries
+scikit-learn
+
+# Code Best Practices
+pre-commit
+black
+isort
