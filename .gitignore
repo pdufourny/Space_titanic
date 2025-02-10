@@ -1,6 +1,7 @@
 # divers
 *.zip
 *.swp
+*.key.json
 
 # BASIC PYTHON
 *.pyc
