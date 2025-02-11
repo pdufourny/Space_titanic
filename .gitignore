@@ -1,6 +1,7 @@
 # divers
 *.zip
 *.swp
+spaceship-key.json
 
 # BASIC PYTHON
 *.pyc
